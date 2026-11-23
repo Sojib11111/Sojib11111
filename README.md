@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sojib Kumar Biswas 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+%26+Automation+Engineer;Data+Analyst" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://sojib11111.github.io/It-s_Sojib/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm an **IT Executive (Software Engineer) at Masco Group** and a **CSE graduate from Daffodil International University**. I build practical, production-ready solutions where IT operations, data and AI meet.
+I'm an **Executive, IT (Software & Automation Engineer) at Masco Group** and a **CSE graduate from Daffodil International University**. I build practical, production-ready solutions where IT operations, data and AI meet.
 
 - 🖥️ Built **MLog**, a workstation activity monitoring system running on **2000+ computers**
 - 🖨️ Built a centralized print monitoring system covering **200+ network printers** (Ricoh, Canon, Konica Minolta)
@@ -76,7 +76,7 @@ I'm an **IT Executive (Software Engineer) at Masco Group** and a **CSE graduate 
 
 ## 💼 Experience
 
-**Executive, IT (Software Engineer)** — *Masco Group, Uttara, Dhaka* · Jun 2026 – Present
+**Executive, IT (Software & Automation Engineer)** — *Masco Group, Uttara, Dhaka* · Jun 2026 – Present
 - Develop Python-based enterprise automation and monitoring solutions with Oracle Database, REST APIs and Oracle APEX dashboards
 - Built and deployed MLog (2000+ computers) and a centralized network printer monitoring system (200+ printers)
 - Built the MASCO Election Portal used across multiple Masco Group units
@@ -99,6 +99,31 @@ I'm an **IT Executive (Software Engineer) at Masco Group** and a **CSE graduate 
 | 🌐 [**Enterprise Network Design**](https://github.com/Sojib11111/Enterprise-Network-Cisco-Packet-Tracer) | Three-zone network with OSPF, EIGRP, DHCP, NAT, ACL and VPN | Cisco Packet Tracer |
 
 👉 See all projects on my **[portfolio](https://sojib11111.github.io/It-s_Sojib/)**.
+
+---
+
+## 🎓 Education
+
+- **BSc in Computer Science & Engineering** — Daffodil International University · 2022 – 2025 · CGPA 3.62
+- **HSC (Science)** — Varendra College, Rajshahi · GPA 5.00
+- **SSC (Science)** — Mashkatadighi Multilateral (Technical) High School, Rajshahi · GPA 5.00
+
+## 🏆 Achievements
+
+- Finalist, **Take Off Programming Contest** (DIU)
+- Finalist, **Unlock The Algorithm Competition** (DIU)
+- Participant, **ModalX-AI Challenge** (DIU)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sojib11111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojib11111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Sojib11111&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
