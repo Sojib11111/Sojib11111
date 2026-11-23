@@ -2,10 +2,10 @@
 
 # Hi there, I'm Sojib Kumar Biswas 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Executive+IT+(Software+Engineer)+%40+Masco+Group;AI+%26+Automation+Engineer;Python+Developer;Web+Developer;Data+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Executive+IT+(Software+Engineer);AI+%26+Automation+Engineer;Python+Developer;Web+Developer;Data+Analyst" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://sojib11111.github.io/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sojib11111.github.io/It-s_Sojib/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sojib-kumar-biswas-288883431/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sojibbiswas200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://huggingface.co/spaces/Sojib11111/fruit-freshness-app"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
@@ -98,7 +98,7 @@ I'm an **IT Executive (Software Engineer) at Masco Group** and a **CSE graduate 
 | 💳 [**UPI Transaction Analysis**](https://github.com/Sojib11111/UPI-Transaction-Data-Analysis-) | Digital-payment trends in [Power BI](https://github.com/Sojib11111/UPI-Transaction-Data-Analysis-) and [Tableau](https://github.com/Sojib11111/UPI-Transaction-Tableau-Data-Analysis-) | Power BI, Tableau |
 | 🌐 [**Enterprise Network Design**](https://github.com/Sojib11111/Enterprise-Network-Cisco-Packet-Tracer) | Three-zone network with OSPF, EIGRP, DHCP, NAT, ACL and VPN | Cisco Packet Tracer |
 
-👉 See all projects on my **[portfolio](https://sojib11111.github.io/)**.
+👉 See all projects on my **[portfolio](https://sojib11111.github.io/It-s_Sojib/)**.
 
 ---
 
@@ -132,7 +132,7 @@ I'm an **IT Executive (Software Engineer) at Masco Group** and a **CSE graduate 
 ### 📫 Let's connect!
 
 Open to collaborations on **AI, automation, data analytics and web projects**.<br/>
-Reach me at **sojibbiswas200@gmail.com** or through my [portfolio](https://sojib11111.github.io/).
+Reach me at **sojibbiswas200@gmail.com** or through my [portfolio](https://sojib11111.github.io/It-s_Sojib/).
 
 <img src="https://komarev.com/ghpvc/?username=Sojib11111&color=22d3ee&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
