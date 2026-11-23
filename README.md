@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sojib Kumar Biswas 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Automation+Engineer;Python+Developer;Web+Developer;Data+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analyst" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://sojib11111.github.io/It-s_Sojib/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
