@@ -100,30 +100,6 @@ I'm an **Executive, IT (Software & Automation Engineer) at Masco Group** and a *
 
 👉 See all projects on my **[portfolio](https://sojib11111.github.io/It-s_Sojib/)**.
 
----
-
-## 🎓 Education
-
-- **BSc in Computer Science & Engineering** — Daffodil International University · 2022 – 2025 · CGPA 3.62
-- **HSC (Science)** — Varendra College, Rajshahi · GPA 5.00
-- **SSC (Science)** — Mashkatadighi Multilateral (Technical) High School, Rajshahi · GPA 5.00
-
-## 🏆 Achievements
-
-- Finalist, **Take Off Programming Contest** (DIU)
-- Finalist, **Unlock The Algorithm Competition** (DIU)
-- Participant, **ModalX-AI Challenge** (DIU)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sojib11111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojib11111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Sojib11111&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ---
 
